@@ -1,6 +1,6 @@
-{
-    "name":  "Chiku v0.1.2 - Level-Up Backflip \u0026 Codex Models",
-    "version":  "0.1.2",
-    "downloadUrl":  "https://github.com/kartik23-ai/chiku-releases/raw/main/Chiku-setup.exe",
-    "notes":  "• Custom Level-Up Backflip celebration animation\n• OpenAI Codex Model selector (o3-mini, o1, gpt-4o)\n• Instant Spotify search launcher\n• In-app silent updates"
+ï»¿{
+  "name": "Chiku v0.1.3 - Security Hardening & Smooth Native Updates",
+  "version": "0.1.3",
+  "downloadUrl": "https://github.com/kartik23-ai/chiku-releases/raw/main/Chiku-setup.exe",
+  "notes": "â€¢ Strict context-menu and DevTools security blocking\nâ€¢ Smooth percentage-based download progress\nâ€¢ Direct native installer spawn without opening browser\nâ€¢ OpenAI Codex model selector in Settings\nâ€¢ Spotify instant search and play\nâ€¢ Custom Level-Up Backflip celebration animation"
 }
