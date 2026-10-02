@@ -1,6 +1,6 @@
 {
-  "name": "Chiku v0.1.5 - Clean Release & Auto Update",
-  "version": "0.1.5",
-  "downloadUrl": "https://github.com/kartik23-ai/chiku-releases/releases/download/v0.1.5/Chiku-setup.exe",
-  "notes": "• Clean release without false-positive heuristic triggers\n• Automatic update detection\n• Complete chiku-hook relay and %LOCALAPPDATA%\\Chiku\n• Reliable default OpenAI Codex integration\n• Spotify instant search and play\n• Custom Level-Up Backflip celebration animation"
+  "name": "Chiku v0.1.6 - Silent Approvals, Delete Warning & Image Lightbox",
+  "version": "0.1.6",
+  "downloadUrl": "https://github.com/kartik23-ai/chiku-releases/releases/download/v0.1.6/Chiku-setup.exe",
+  "notes": "• Silent background approvals (target window no longer steals focus or opens)\n• Red danger button & alert styling for delete and destructive commands\n• One-time update notification with dismissal memory\n• Inline AI image generation rendering in chat\n• Smooth fullscreen image lightbox preview with backdrop blur"
 }
