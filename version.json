@@ -1,8 +1,8 @@
 {
   "name": "Chiku v0.1.7 - Satellite Reminder Fix, Universal Linux AppImage & Debian Package",
   "version": "0.1.7",
-  "downloadUrl": "https://github.com/kartik23-ai/chiku-releases/raw/main/Chiku-setup.exe",
-  "downloadUrlLinux": "https://github.com/kartik23-ai/chiku/releases/download/v0.1.7/Chiku-0.1.7.AppImage",
-  "downloadUrlDeb": "https://github.com/kartik23-ai/chiku/releases/download/v0.1.7/chiku_0.1.7_amd64.deb",
+  "downloadUrl": "https://github.com/kartik23-ai/chiku-releases/releases/download/v0.1.7/Chiku-setup.exe",
+  "downloadUrlLinux": "https://github.com/kartik23-ai/chiku-releases/releases/download/v0.1.7/Chiku-0.1.7.AppImage",
+  "downloadUrlDeb": "https://github.com/kartik23-ai/chiku-releases/releases/download/v0.1.7/chiku_0.1.7_amd64.deb",
   "notes": "• Fixed satellite reminder card layout (prevent squished text and clipping)\n• Universal Linux AppImage support for all Linux distributions\n• Debian & Kali Linux native .deb package\n• Platform-aware updater (Windows gets .exe, Linux gets .AppImage/.deb)\n• Smooth transitions and meeting notifications"
 }
