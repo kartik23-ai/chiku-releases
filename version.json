@@ -1,8 +1,8 @@
 {
-  "name": "Chiku v0.1.8 - iCal Calendar Sync, Meeting Watch & Linux Cursor Fix",
-  "version": "0.1.8",
-  "downloadUrl": "https://github.com/kartik23-ai/chiku-releases/releases/download/v0.1.8/Chiku-setup.exe",
+  "name": "Chiku v0.1.9 - Mini-Dock Border Snapping, Stream Chat & MSI Installer",
+  "version": "0.1.9",
+  "downloadUrl": "https://github.com/kartik23-ai/chiku-releases/releases/download/v0.1.9/Chiku-Windows.msi",
   "downloadUrlLinux": "https://github.com/kartik23-ai/chiku-releases/releases/download/v0.1.8/Chiku-0.1.8.AppImage",
   "downloadUrlDeb": "https://github.com/kartik23-ai/chiku-releases/releases/download/v0.1.8/chiku_0.1.8_amd64.deb",
-  "notes": "• iCal / Webcal Secret URL Calendar Sync (Google, Outlook, Apple Calendar)\n• Satellite Meeting Watch with automatic popup & countdown\n• Custom notification sound alert on reminder expiration\n• Fixed Linux cursor tracking lag and high CPU consumption\n• Enabled Codex full execution capability (PDF creation & script execution)\n• Migrated to Google Gemini Flash Image API"
+  "notes": "• Mini-Dock & Screen Border Snapping: Double-tap black notch to shrink into 56x56 companion\n• Smooth border snapping: stick Mochi to any screen border or corner effortlessly\n• Native MSI Installer: Clean Windows Installer package without false positives\n• Instant Stream Chat: Live real-time token streaming with unified typography\n• Full-screen zero-glitch window hit testing and 60 FPS transitions"
 }
